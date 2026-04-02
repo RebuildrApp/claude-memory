@@ -17,4 +17,6 @@ When starting a new Claude session, point it at this repo:
 
 ## Last updated
 
+2026-04-02 13:08
+
 2026-04-02
